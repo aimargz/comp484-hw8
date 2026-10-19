@@ -269,6 +269,7 @@ footer h2 {
        https://commons.wikimedia.org/wiki/File:OviattCSUN.jpg */
     background: linear-gradient(90deg, rgba(11, 19, 43, .94), rgba(28, 37, 65, .76)),
                 #3A506B url("https://upload.wikimedia.org/wikipedia/commons/3/38/OviattCSUN.jpg") center 48% / cover no-repeat;
+    background-attachment: scroll, fixed;
     color: #FFFFFF;
 }
 
